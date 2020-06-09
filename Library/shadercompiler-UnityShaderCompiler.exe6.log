@@ -1,0 +1,25 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Smoke.vfx(16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7533 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 9 at (16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=9 insize=10528 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 9 at (11): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=9 insize=1976 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 9 at (15): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=9 insize=7628 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Flames.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1976 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 9 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=9 insize=17415 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(20): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7733 outsize=0 ok=0
+
+Quitting shader compiler process

@@ -1,2 +1,375 @@
-Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.11f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.11f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=18709 outsize=18731 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=1499 outsize=1505 ok=1
+Cmd: preprocessCompute
+  insize=5024 outsize=5032 ok=1
+Cmd: preprocessCompute
+  insize=1858 outsize=1864 ok=1
+Cmd: preprocessCompute
+  insize=1366 outsize=1372 ok=1
+Cmd: preprocessCompute
+  insize=3152 outsize=3158 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: preprocessCompute
+  insize=5013 outsize=5015 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2120 ok=1
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=9091 outsize=9103 ok=1
+Cmd: preprocessCompute
+  insize=3526 outsize=3532 ok=1
+Cmd: preprocessCompute
+  insize=3168 outsize=3174 ok=1
+Cmd: preprocessCompute
+  insize=5587 outsize=5591 ok=1
+Cmd: preprocessCompute
+  insize=1163 outsize=1165 ok=1
+Cmd: preprocessCompute
+  insize=8776 outsize=8778 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Smoke.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=8778 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7531 outsize=7533 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Smoke.vfx(16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7533 outsize=0 ok=0
+Cmd: preprocess
+  insize=38591 outsize=655 ok=1
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Smoke.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1911 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=8424 outsize=8426 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=8426 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=10526 outsize=10528 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(15): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=10528 outsize=0 ok=0
+Cmd: preprocess
+  insize=47874 outsize=623 ok=1
+Cmd: preprocessCompute
+  insize=10797 outsize=10799 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=10799 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=8947 outsize=8949 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=8949 outsize=0 ok=0
+Cmd: preprocess
+  insize=39219 outsize=654 ok=1
+Cmd: preprocessCompute
+  insize=11253 outsize=11255 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(20): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=11255 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7707 outsize=7709 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(14): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7709 outsize=0 ok=0
+Cmd: preprocess
+  insize=37728 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1976 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1911 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=9415 outsize=9417 ok=1
+Cmd: preprocessCompute
+  insize=7626 outsize=7628 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Sparks.vfx(14): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7628 outsize=0 ok=0
+Cmd: preprocess
+  insize=37484 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=6753 outsize=6755 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6755 outsize=2353 ok=1
+Cmd: preprocessCompute
+  insize=8017 outsize=8019 ok=1
+Cmd: preprocess
+  insize=22625 outsize=459 ok=1
+Cmd: preprocessCompute
+  insize=7010 outsize=7012 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7012 outsize=2652 ok=1
+Cmd: preprocessCompute
+  insize=8302 outsize=8304 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8304 outsize=2112 ok=1
+Cmd: preprocess
+  insize=22642 outsize=462 ok=1
+Cmd: preprocessCompute
+  insize=6625 outsize=6627 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6627 outsize=2324 ok=1
+Cmd: preprocessCompute
+  insize=5789 outsize=5791 ok=1
+Cmd: preprocess
+  insize=22933 outsize=465 ok=1
+Cmd: preprocessCompute
+  insize=6623 outsize=6625 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6625 outsize=2352 ok=1
+Cmd: preprocessCompute
+  insize=5803 outsize=5805 ok=1
+Cmd: preprocess
+  insize=22518 outsize=461 ok=1
+Cmd: preprocessCompute
+  insize=7273 outsize=7275 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Flames.vfx(16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7275 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6523 outsize=6525 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Flames.vfx(14): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=6525 outsize=0 ok=0
+Cmd: preprocess
+  insize=46912 outsize=624 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Flames.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1976 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6465 outsize=6467 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=6467 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=17413 outsize=17415 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=17415 outsize=0 ok=0
+Cmd: preprocess
+  insize=43591 outsize=638 ok=1
+Cmd: preprocessCompute
+  insize=7244 outsize=7246 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=7246 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=30988 outsize=30990 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=30990 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7731 outsize=7733 ok=1
+Cmd: preprocessCompute
+  insize=10100 outsize=10102 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=10102 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6328 outsize=6330 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(19): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=6330 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4988 outsize=4990 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lightning.vfx(14): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=4990 outsize=0 ok=0
+Cmd: preprocess
+  insize=40087 outsize=639 ok=1
+Cmd: preprocessCompute
+  insize=18709 outsize=18731 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=1499 outsize=1505 ok=1
+Cmd: preprocessCompute
+  insize=5024 outsize=5032 ok=1
+Cmd: preprocessCompute
+  insize=1858 outsize=1864 ok=1
+Cmd: preprocessCompute
+  insize=1366 outsize=1372 ok=1
+Cmd: preprocessCompute
+  insize=3152 outsize=3158 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: preprocessCompute
+  insize=5013 outsize=5015 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2120 ok=1
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=9091 outsize=9103 ok=1
+Cmd: preprocessCompute
+  insize=3526 outsize=3532 ok=1
+Cmd: preprocessCompute
+  insize=3168 outsize=3174 ok=1
+Cmd: preprocessCompute
+  insize=5587 outsize=5591 ok=1
+Cmd: preprocessCompute
+  insize=1163 outsize=1165 ok=1
+Cmd: preprocessCompute
+  insize=8776 outsize=8778 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (18): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=8778 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7531 outsize=7533 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7533 outsize=0 ok=0
+Cmd: preprocess
+  insize=38591 outsize=655 ok=1
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: preprocessCompute
+  insize=8424 outsize=8426 ok=1
+Cmd: preprocessCompute
+  insize=10526 outsize=10528 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (16): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=10528 outsize=0 ok=0
+Cmd: preprocess
+  insize=47874 outsize=623 ok=1
+Cmd: preprocessCompute
+  insize=10797 outsize=10799 ok=1
+Cmd: preprocessCompute
+  insize=8947 outsize=8949 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=8949 outsize=0 ok=0
+Cmd: preprocess
+  insize=39219 outsize=654 ok=1
+Cmd: preprocessCompute
+  insize=11253 outsize=11255 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (21): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=11255 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7707 outsize=7709 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (15): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7709 outsize=0 ok=0
+Cmd: preprocess
+  insize=37728 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (11): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=1976 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (11): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=1911 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=9415 outsize=9417 ok=1
+Cmd: preprocessCompute
+  insize=7626 outsize=7628 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (15): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7628 outsize=0 ok=0
+Cmd: preprocess
+  insize=37484 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=6753 outsize=6755 ok=1
+Cmd: preprocessCompute
+  insize=8017 outsize=8019 ok=1
+Cmd: preprocess
+  insize=22625 outsize=459 ok=1
+Cmd: preprocessCompute
+  insize=7010 outsize=7012 ok=1
+Cmd: preprocessCompute
+  insize=8302 outsize=8304 ok=1
+Cmd: preprocess
+  insize=22642 outsize=462 ok=1
+Cmd: preprocessCompute
+  insize=6625 outsize=6627 ok=1
+Cmd: preprocessCompute
+  insize=5789 outsize=5791 ok=1
+Cmd: preprocess
+  insize=22933 outsize=465 ok=1
+Cmd: preprocessCompute
+  insize=6623 outsize=6625 ok=1
+Cmd: preprocessCompute
+  insize=5803 outsize=5805 ok=1
+Cmd: preprocess
+  insize=22518 outsize=461 ok=1
+Cmd: preprocessCompute
+  insize=7273 outsize=7275 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7275 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6523 outsize=6525 ok=1
+Cmd: preprocess
+  insize=46912 outsize=624 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (11): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=1976 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6465 outsize=6467 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (18): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=6467 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=17413 outsize=17415 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=17415 outsize=0 ok=0
+Cmd: preprocess
+  insize=43591 outsize=638 ok=1
+Cmd: preprocessCompute
+  insize=7244 outsize=7246 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (18): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7246 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=30988 outsize=30990 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (18): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=30990 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=7731 outsize=7733 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (21): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=7733 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=10100 outsize=10102 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (18): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=10102 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=6328 outsize=6330 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (20): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=6330 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4988 outsize=4990 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 18 at (15): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=18 insize=4990 outsize=0 ok=0
+Cmd: preprocess
+  insize=40087 outsize=639 ok=1
