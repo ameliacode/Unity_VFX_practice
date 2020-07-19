@@ -1,2 +1,2 @@
-# Unity_VFX_practice
+# Unity VFX practice
 Visual Effect demonstration for Seminar 
